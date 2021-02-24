@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Time Table</title>
+</head>
+<body>
+
+    <h1>
+        School Time Table
+    </h1>
+
+    <table border = "5" cellspacing = "10" cellpadding =  " 10 ">
+        <thead>
+            <tr>
+                <th>Days/Periods</th>
+                <th>I</th>
+                <th>II</th>
+                <th>III</th>
+                <th>  </th>
+                <th>IV</th>
+                <th>V</th>
+                <th>VI</th>
+            </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>Monday</td>
+                    <td>Physics</td>
+                    <td>Chemistry</td>
+                    <td>Maths</td>
+                    <td rowspan="6">LUNCH </td>
+                    <td>English</td>
+                    <td>Computer science</td>
+                    <td>Physical</td> 
+                </tr>
+                <tr>
+                    <td>Tuesday</td>
+                    <td>Physics</td>
+                    <td>Chemistry</td>
+                    <td>Maths</td>
+                    <td>English</td>
+                    <td>Computer science</td>
+                    <td>Physical</td> 
+                </tr>
+                <tr>
+                    <td>Wednesday</td>
+                    <td>Physics</td>
+                    <td>Chemistry</td>
+                    <td rowspan="3">Maths</td>
+                    <td>English</td>
+                    <td>Computer science</td>
+                    <td>Physical</td> 
+                </tr>
+                <tr>
+                    <td>Thursday</td>
+                    <td>Physics</td>
+                    <td>Chemistry</td>
+                    <td>English</td>
+                    <td>Computer science</td>
+                    <td>Physical</td> 
+                </tr>
+                <tr>
+                    <td>Friday</td>
+                    <td>Physics</td>
+                    <td>Chemistry</td>
+                    <td>English</td>
+                    <td>Computer science</td>
+                    <td>Physical</td> 
+                </tr>
+                <tr>
+                    <td>Saturday</td>
+                    <td>Physics</td>
+                    <td>Chemistry</td>
+                    <td>English</td>
+                    <td colspan="3">Computer science</td> 
+                </tr>
+                <tr>
+                    <th colspan="8">This is Class XII </th>
+                </tr>
+               
+            </tbody>
+      
+    </table>
+    
+</body>
+</html>
