@@ -1,0 +1,277 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>PhoneBook</title>
+</head>
+<body style="background-color: #0096c7;">
+        <h1 style="padding: 50px;">This is PhoneBook (A-Z)</h1>
+
+    <section>
+        <div>A</div>
+        <ul>
+            <li>7982476345</li>
+            <li>7982476345</li>
+            <li>7982476345</li>
+            <li>7982476345</li>
+            <li>7982476345</li>
+        </ul>
+    </section>
+    
+    <section>
+        <div>B</div>
+        <ul>
+            <li>7982476345</li>
+            <li>7982476345</li>
+            <li>7982476345</li>
+            <li>7982476345</li>
+            <li>7982476345</li>
+        </ul>
+    </section>
+    <section>
+        <div class="Alphabet">C</div>
+        <ul>
+            <li>7982476345</li>
+            <li>7982476345</li>
+            <li>7982476345</li>
+            <li>7982476345</li>
+            <li>7982476345</li>
+        </ul>
+    </section>
+    <section>
+        <div class="Alphabet">D</div>
+        <ul>
+            <li>7982476345</li>
+            <li>7982476345</li>
+            <li>7982476345</li>
+            <li>7982476345</li>
+            <li>7982476345</li>
+        </ul>
+    </section>
+    <section>
+        <div class="Alphabet">E</div>
+        <ul>
+            <li>7982476345</li>
+            <li>7982476345</li>
+            <li>7982476345</li>
+            <li>7982476345</li>
+            <li>7982476345</li>
+        </ul>
+    </section>
+    <section>
+        <div class="Alphabet">F</div>
+        <ul>
+            <li>7982476345</li>
+            <li>7982476345</li>
+            <li>7982476345</li>
+            <li>7982476345</li>
+            <li>7982476345</li>
+        </ul>
+    </section>
+    <section>
+        <div class="Alphabet">G</div>
+        <ul>
+            <li>7982476345</li>
+            <li>7982476345</li>
+            <li>7982476345</li>
+            <li>7982476345</li>
+            <li>7982476345</li>
+        </ul>
+    </section>
+    <section>
+        <div class="Alphabet">H</div>
+        <ul>
+            <li>7982476345</li>
+            <li>7982476345</li>
+            <li>7982476345</li>
+            <li>7982476345</li>
+            <li>7982476345</li>
+        </ul>
+    </section>
+    <section>
+        <div class="Alphabet">I</div>
+        <ul>
+            <li>7982476345</li>
+            <li>7982476345</li>
+            <li>7982476345</li>
+            <li>7982476345</li>
+            <li>7982476345</li>
+        </ul>
+    </section>
+    <section>
+        <div class="Alphabet">J</div>
+        <ul>
+            <li>7982476345</li>
+            <li>7982476345</li>
+            <li>7982476345</li>
+            <li>7982476345</li>
+            <li>7982476345</li>
+        </ul>
+    </section>
+    <section>
+        <div class="Alphabet">K</div>
+        <ul>
+            <li>7982476345</li>
+            <li>7982476345</li>
+            <li>7982476345</li>
+            <li>7982476345</li>
+            <li>7982476345</li>
+        </ul>
+    </section>
+    <section>
+        <div class="Alphabet">L</div>
+        <ul>
+            <li>7982476345</li>
+            <li>7982476345</li>
+            <li>7982476345</li>
+            <li>7982476345</li>
+            <li>7982476345</li>
+        </ul>
+    </section>
+    <section>
+        <div class="Alphabet">M</div>
+        <ul>
+            <li>7982476345</li>
+            <li>7982476345</li>
+            <li>7982476345</li>
+            <li>7982476345</li>
+            <li>7982476345</li>
+        </ul>
+    </section>
+    <section>
+        <div class="Alphabet">N</div>
+        <ul>
+            <li>7982476345</li>
+            <li>7982476345</li>
+            <li>7982476345</li>
+            <li>7982476345</li>
+            <li>7982476345</li>
+        </ul>
+    </section>
+    <section>
+        <div class="Alphabet">O</div>
+        <ul>
+            <li>7982476345</li>
+            <li>7982476345</li>
+            <li>7982476345</li>
+            <li>7982476345</li>
+            <li>7982476345</li>
+        </ul>
+    </section>
+    <section>
+        <div class="Alphabet">P</div>
+        <ul>
+            <li>7982476345</li>
+            <li>7982476345</li>
+            <li>7982476345</li>
+            <li>7982476345</li>
+            <li>7982476345</li>
+        </ul>
+    </section>
+    <section>
+        <div class="Alphabet">Q</div>
+        <ul>
+            <li>7982476345</li>
+            <li>7982476345</li>
+            <li>7982476345</li>
+            <li>7982476345</li>
+            <li>7982476345</li>
+        </ul>
+    </section>
+    <section>
+        <div class="Alphabet">R</div>
+        <ul>
+            <li>7982476345</li>
+            <li>7982476345</li>
+            <li>7982476345</li>
+            <li>7982476345</li>
+            <li>7982476345</li>
+        </ul>
+    </section>
+    <section>
+        <div class="Alphabet">S</div>
+        <ul>
+            <li>7982476345</li>
+            <li>7982476345</li>
+            <li>7982476345</li>
+            <li>7982476345</li>
+            <li>7982476345</li>
+        </ul>
+    </section>
+    <section>
+        <div class="Alphabet">T</div>
+        <ul>
+            <li>7982476345</li>
+            <li>7982476345</li>
+            <li>7982476345</li>
+            <li>7982476345</li>
+            <li>7982476345</li>
+        </ul>
+    </section>
+    <section>
+        <div class="Alphabet">U</div>
+        <ul>
+            <li>7982476345</li>
+            <li>7982476345</li>
+            <li>7982476345</li>
+            <li>7982476345</li>
+            <li>7982476345</li>
+        </ul>
+    </section>
+    <section>
+        <div class="Alphabet">V</div>
+        <ul>
+            <li>7982476345</li>
+            <li>7982476345</li>
+            <li>7982476345</li>
+            <li>7982476345</li>
+            <li>7982476345</li>
+        </ul>
+    </section>
+    <section>
+        <div class="Alphabet">W</div>
+        <ul>
+            <li>7982476345</li>
+            <li>7982476345</li>
+            <li>7982476345</li>
+            <li>7982476345</li>
+            <li>7982476345</li>
+        </ul>
+    </section>
+    <section>
+        <div class="Alphabet">X</div>
+        <ul>
+            <li>7982476345</li>
+            <li>7982476345</li>
+            <li>7982476345</li>
+            <li>7982476345</li>
+            <li>7982476345</li>
+        </ul>
+    </section>
+    <section>
+        <div class="Alphabet">Y</div>
+        <ul>
+            <li>7982476345</li>
+            <li>7982476345</li>
+            <li>7982476345</li>
+            <li>7982476345</li>
+            <li>7982476345</li>
+        </ul>
+    </section>
+    <section>
+        <div class="Alphabet">Z</div>
+        <ul>
+            <li>7982476345</li>
+            <li>7982476345</li>
+            <li>7982476345</li>
+            <li>7982476345</li>
+            <li>7982476345</li>
+        </ul>
+    </section>
+    <section>
+    
+</body>
+</html>

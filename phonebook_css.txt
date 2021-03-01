@@ -1,0 +1,36 @@
+
+section div{
+    width: 80%;
+    border: 5px solid black;
+    margin: 10px auto;
+    text-align: center;
+background-color: chocolate;
+align-self: center;
+font-size: 40px;
+position: sticky;
+}
+
+
+h1{
+    border: 5px solid black;
+    background-color:#03045e;
+    font-style: italic;
+    color: #74c69d;
+    text-align: center;
+    font-size: 60px;
+    margin: 10px auto;
+    padding: 100px auto;
+}
+ul{
+    width: 60%;
+    border: 3.5px solid black ;
+    padding: 10px auto;
+    background-color: #0096c7;
+    text-align: center;
+    margin: 10px auto;
+}
+ul li:hover{
+    background-color: gray;
+    font-size: 20px;
+}
+
